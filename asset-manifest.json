@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd8d9eba.css",
-    "main.js": "/static/js/main.582e95dd.js",
-    "static/media/footer (1).png": "/static/media/footer (1).0a9fb9c1ec0f4155c23c.png",
-    "static/media/footer (2).png": "/static/media/footer (2).40aa1ff318c15a469112.png",
-    "static/media/footer (5).png": "/static/media/footer (5).2060e716dbf49f4f1d10.png",
-    "static/media/footer (4).png": "/static/media/footer (4).0885eac894c88f7cf5dd.png",
-    "static/media/footer (6).png": "/static/media/footer (6).8baa835a43e32c79ae75.png",
-    "static/media/footer (3).png": "/static/media/footer (3).f42eb516809f3e69eb30.png",
-    "static/media/Bitmap4.png": "/static/media/Bitmap4.a8332a11b48ff1d8d10e.png",
-    "static/media/Bitmap2.png": "/static/media/Bitmap2.2a5121205fc7d0d50762.png",
-    "static/media/Bitmap3.png": "/static/media/Bitmap3.f707427f57a8c1f4d4d9.png",
-    "static/media/banner2.jpg": "/static/media/banner2.6853fc27fe29eac6b1b8.jpg",
-    "static/media/Bitmap1.jpg": "/static/media/Bitmap1.f678bd241ab896a3b258.jpg",
-    "index.html": "/index.html",
-    "main.fd8d9eba.css.map": "/static/css/main.fd8d9eba.css.map",
-    "main.582e95dd.js.map": "/static/js/main.582e95dd.js.map"
+    "main.css": "/reactFirstApp/static/css/main.fd8d9eba.css",
+    "main.js": "/reactFirstApp/static/js/main.db2265e0.js",
+    "static/media/footer (1).png": "/reactFirstApp/static/media/footer (1).0a9fb9c1ec0f4155c23c.png",
+    "static/media/footer (2).png": "/reactFirstApp/static/media/footer (2).40aa1ff318c15a469112.png",
+    "static/media/footer (5).png": "/reactFirstApp/static/media/footer (5).2060e716dbf49f4f1d10.png",
+    "static/media/footer (4).png": "/reactFirstApp/static/media/footer (4).0885eac894c88f7cf5dd.png",
+    "static/media/footer (6).png": "/reactFirstApp/static/media/footer (6).8baa835a43e32c79ae75.png",
+    "static/media/footer (3).png": "/reactFirstApp/static/media/footer (3).f42eb516809f3e69eb30.png",
+    "static/media/Bitmap4.png": "/reactFirstApp/static/media/Bitmap4.a8332a11b48ff1d8d10e.png",
+    "static/media/Bitmap2.png": "/reactFirstApp/static/media/Bitmap2.2a5121205fc7d0d50762.png",
+    "static/media/Bitmap3.png": "/reactFirstApp/static/media/Bitmap3.f707427f57a8c1f4d4d9.png",
+    "static/media/banner2.jpg": "/reactFirstApp/static/media/banner2.6853fc27fe29eac6b1b8.jpg",
+    "static/media/Bitmap1.jpg": "/reactFirstApp/static/media/Bitmap1.f678bd241ab896a3b258.jpg",
+    "index.html": "/reactFirstApp/index.html",
+    "main.fd8d9eba.css.map": "/reactFirstApp/static/css/main.fd8d9eba.css.map",
+    "main.db2265e0.js.map": "/reactFirstApp/static/js/main.db2265e0.js.map"
   },
   "entrypoints": [
     "static/css/main.fd8d9eba.css",
-    "static/js/main.582e95dd.js"
+    "static/js/main.db2265e0.js"
   ]
 }
