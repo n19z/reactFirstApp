@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactFirstApp/static/css/main.fd8d9eba.css",
-    "main.js": "/reactFirstApp/static/js/main.db2265e0.js",
+    "main.css": "/reactFirstApp/static/css/main.3d9f97cf.css",
+    "main.js": "/reactFirstApp/static/js/main.35d30bf8.js",
     "static/media/footer (1).png": "/reactFirstApp/static/media/footer (1).0a9fb9c1ec0f4155c23c.png",
     "static/media/footer (2).png": "/reactFirstApp/static/media/footer (2).40aa1ff318c15a469112.png",
     "static/media/footer (5).png": "/reactFirstApp/static/media/footer (5).2060e716dbf49f4f1d10.png",
@@ -14,11 +14,11 @@
     "static/media/banner2.jpg": "/reactFirstApp/static/media/banner2.6853fc27fe29eac6b1b8.jpg",
     "static/media/Bitmap1.jpg": "/reactFirstApp/static/media/Bitmap1.f678bd241ab896a3b258.jpg",
     "index.html": "/reactFirstApp/index.html",
-    "main.fd8d9eba.css.map": "/reactFirstApp/static/css/main.fd8d9eba.css.map",
-    "main.db2265e0.js.map": "/reactFirstApp/static/js/main.db2265e0.js.map"
+    "main.3d9f97cf.css.map": "/reactFirstApp/static/css/main.3d9f97cf.css.map",
+    "main.35d30bf8.js.map": "/reactFirstApp/static/js/main.35d30bf8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd8d9eba.css",
-    "static/js/main.db2265e0.js"
+    "static/css/main.3d9f97cf.css",
+    "static/js/main.35d30bf8.js"
   ]
 }
